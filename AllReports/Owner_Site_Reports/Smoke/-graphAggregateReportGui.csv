@@ -1,0 +1,5 @@
+sampler_label,aggregate_report_count,average,aggregate_report_median,aggregate_report_90%_line,aggregate_report_min,aggregate_report_max,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,aggregate_report_stddev
+GetAll,1,22,22,22,22,22,0.0,45.45454545454545,130.1935369318182,0.0
+Post,1,4,4,4,4,4,0.0,250.0,76.171875,0.0
+Delete,1,4,4,4,4,4,0.0,250.0,13.18359375,0.0
+TOTAL,3,10,4,22,4,22,0.0,100.0,107.38932291666667,8.48528137423857
